@@ -22,10 +22,46 @@ At the command prompt, type `nano`.
 ```
 
 ## Syntax Highlighting
+###### *JSON Sample*
+````md
 ```json
 {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
+}
+```
+````
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+###### *C# Sample*
+````md
+```csharp
+namespace HelloWorld
+{
+    class Hello {         
+        static void Main(string[] args)
+        {
+            System.Console.WriteLine("Hello World!");
+        }
+    }
+}
+```
+````md
+```csharp
+namespace HelloWorld
+{
+    class Hello {         
+        static void Main(string[] args)
+        {
+            System.Console.WriteLine("Hello World!");
+        }
+    }
 }
 ```
