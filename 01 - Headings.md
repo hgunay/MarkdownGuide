@@ -1,4 +1,4 @@
-# 01 - HEADINGS
+# 01 - Headings
 
 # Heading level 1
 ```
