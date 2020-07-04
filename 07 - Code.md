@@ -22,11 +22,10 @@ At the command prompt, type `nano`.
 ```
 
 ## Syntax Highlighting
-````json
+```json
 {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
-````
-
+```
