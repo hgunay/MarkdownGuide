@@ -30,4 +30,3 @@ At the command prompt, type `nano`.
   "age": 25
 }
 ```
-```
