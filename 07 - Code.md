@@ -67,3 +67,34 @@ namespace HelloWorld
     }
 }
 ```
+###### *Javascript Sample*
+````md
+```javascript
+document.getElementById('demo').innerHTML = 'Hello JavaScript';
+```
+````
+```javascript
+document.getElementById('demo').innerHTML = 'Hello JavaScript';
+```
+
+###### *GoLang Sample*
+````md
+```go
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello, 世界")
+}
+```
+````
+```go
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello, 世界")
+}
+```
