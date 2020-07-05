@@ -98,3 +98,13 @@ func main() {
 	fmt.Println("Hello, 世界")
 }
 ```
+
+###### *Python Sample*
+````md
+```python
+print("Hello, World!")
+```
+````
+```python
+print("Hello, World!")
+```
