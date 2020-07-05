@@ -32,6 +32,7 @@ At the command prompt, type `nano`.
 }
 ```
 ````
+
 ```json
 {
   "firstName": "John",
@@ -53,7 +54,8 @@ namespace HelloWorld
     }
 }
 ```
-````md
+````
+
 ```csharp
 namespace HelloWorld
 {
